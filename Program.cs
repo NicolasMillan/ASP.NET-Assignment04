@@ -14,12 +14,6 @@ var connectionString = builder.Configuration.GetConnectionString("Default") ?? t
 
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseMySQL(connectionString));
 
-// builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<ApplicationDbContext>();
-builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-    .AddRoles<IdentityRole>() // Adding roles here
-    .AddEntityFrameworkStores<ApplicationDbContext>();
-
-
 // Add sessions
 builder.Services.AddSession(options => {
     options.IdleTimeout = TimeSpan.FromMinutes(30);
@@ -27,10 +21,9 @@ builder.Services.AddSession(options => {
     options.Cookie.IsEssential = true;
 });
 
-// Adding identity service and roles
 builder.Services.AddDefaultIdentity<IdentityUser>()
-    .AddRoles<IdentityRole>()
-    .AddEntityFrameworkStores<ApplicationDbContext>();
+.AddRoles<IdentityRole>()
+.AddEntityFrameworkStores<ApplicationDbContext>();
 
 var app = builder.Build();
 

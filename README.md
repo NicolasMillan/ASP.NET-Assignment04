@@ -61,7 +61,7 @@ Create a new folder called **Data**. In the folder create a new file called **Ap
 ```csharp
 using Microsoft.EntityFrameworkCore;
 
-namespace WorldDominion.Models
+namespace ScamStore.Models
 {
     public class ApplicationDbContext : DbContext
     {
@@ -167,7 +167,7 @@ public class ApplicationDbContext : IdentityDbContext<IdentityUser, IdentityRole
 4. **Scaffold the Views**
 
 ```bash
-dotnet aspnet-codegenerator identity -dc WorldDominion.Models.ApplicationDbContext --files "Account.Register;Account.Login;Account.Logout"
+dotnet aspnet-codegenerator identity -dc ScamStore.Models.ApplicationDbContext --files "Account.Register;Account.Login;Account.Logout"
 ```
 
 5. **Register Razor Pages Middleware**
@@ -193,7 +193,7 @@ Create a new file in the Data folder called **DbInitializer.cs**
 // Data/DbInitializer.cs
 using Microsoft.AspNetCore.Identity;
 
-namespace WorldDominion.Models
+namespace ScamStore.Models
 {
     public class DbInitializer
     {
