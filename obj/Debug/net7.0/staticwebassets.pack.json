@@ -1,7 +1,7 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\nicol\\OneDrive\\Desktop\\GeorgianCollege_Semester_Three\\Server Side Scripting ASPNET\\AssignmnetFour\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ScamStore.bundle.scp.css",
+      "Id": "C:\\Users\\nicol\\OneDrive\\Desktop\\GeorgianCollege_Semester_Three\\Server Side Scripting ASPNET\\AssignmnetFour\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ScamStore.bundle.scp.css",
       "PackagePath": "staticwebassets\\ScamStore.bundle.scp.css"
     },
     {
@@ -269,19 +269,19 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ScamStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ScamStore.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ScamStore.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ScamStore.props",
       "PackagePath": "build\\ScamStore.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ScamStore.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ScamStore.props",
       "PackagePath": "buildMultiTargeting\\ScamStore.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ScamStore.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ScamStore.props",
       "PackagePath": "buildTransitive\\ScamStore.props"
     }
   ],

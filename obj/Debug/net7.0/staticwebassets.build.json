@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WCse/+wPZcmvHc83daVx0tRqDVrwpzb1rqvTqBNMsis=",
+  "Hash": "Trh+fYZnRK3pgu3fqzsdH2Sw3kQTUSkCh7M592mdfh4=",
   "Source": "ScamStore",
   "BasePath": "_content/ScamStore",
   "Mode": "Default",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "C:\\Users\\nicol\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.13\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\nicol\\OneDrive\\Desktop\\GeorgianCollege_Semester_Three\\Server Side Scripting ASPNET\\AssignmnetFour\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ScamStore.styles.css",
+      "Identity": "C:\\Users\\nicol\\OneDrive\\Desktop\\GeorgianCollege_Semester_Three\\Server Side Scripting ASPNET\\AssignmnetFour\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ScamStore.styles.css",
       "SourceId": "ScamStore",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nicol\\OneDrive\\Desktop\\GeorgianCollege_Semester_Three\\Server Side Scripting ASPNET\\AssignmnetFour\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\nicol\\OneDrive\\Desktop\\GeorgianCollege_Semester_Three\\Server Side Scripting ASPNET\\AssignmnetFour\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ScamStore",
       "RelativePath": "ScamStore.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nicol\\OneDrive\\Desktop\\GeorgianCollege_Semester_Three\\Server Side Scripting ASPNET\\AssignmnetFour\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ScamStore.styles.css"
+      "OriginalItemSpec": "C:\\Users\\nicol\\OneDrive\\Desktop\\GeorgianCollege_Semester_Three\\Server Side Scripting ASPNET\\AssignmnetFour\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ScamStore.styles.css"
     },
     {
-      "Identity": "C:\\Users\\nicol\\OneDrive\\Desktop\\GeorgianCollege_Semester_Three\\Server Side Scripting ASPNET\\AssignmnetFour\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ScamStore.bundle.scp.css",
+      "Identity": "C:\\Users\\nicol\\OneDrive\\Desktop\\GeorgianCollege_Semester_Three\\Server Side Scripting ASPNET\\AssignmnetFour\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ScamStore.bundle.scp.css",
       "SourceId": "ScamStore",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nicol\\OneDrive\\Desktop\\GeorgianCollege_Semester_Three\\Server Side Scripting ASPNET\\AssignmnetFour\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\nicol\\OneDrive\\Desktop\\GeorgianCollege_Semester_Three\\Server Side Scripting ASPNET\\AssignmnetFour\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ScamStore",
       "RelativePath": "ScamStore.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,7 +1192,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nicol\\OneDrive\\Desktop\\GeorgianCollege_Semester_Three\\Server Side Scripting ASPNET\\AssignmnetFour\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ScamStore.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\nicol\\OneDrive\\Desktop\\GeorgianCollege_Semester_Three\\Server Side Scripting ASPNET\\AssignmnetFour\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ScamStore.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\nicol\\OneDrive\\Desktop\\GeorgianCollege_Semester_Three\\Server Side Scripting ASPNET\\AssignmnetFour\\wwwroot\\css\\site.css",
